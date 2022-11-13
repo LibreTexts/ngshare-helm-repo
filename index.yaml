@@ -41,6 +41,19 @@ entries:
     - https://libretexts.github.io/ngshare-helm-repo/ngshare-0.6.0-dev.58e896d.tgz
     version: 0.6.0-dev.58e896d
   - apiVersion: v1
+    created: "2022-11-13T20:15:17.993608913Z"
+    description: Exchange service allowing nbgrader to be used on a Z2JH environment
+    digest: c9d39b4439d1c9810c7cb18c6acf1006f945e5d582303f0bc7178e13b79bbb8c
+    home: https://github.com/LibreTexts/ngshare/
+    icon: https://raw.githubusercontent.com/LibreTexts/ngshare/master/ngshare/favicon.png
+    maintainers:
+    - name: rkevin
+      url: https://github.com/rkevin-arch
+    name: ngshare
+    urls:
+    - https://libretexts.github.io/ngshare-helm-repo/ngshare-0.6.0-dev.5361585.tgz
+    version: 0.6.0-dev.5361585
+  - apiVersion: v1
     created: "2020-08-24T02:46:55.235755044Z"
     description: Exchange service allowing nbgrader to be used on a Z2JH environment
     digest: 74f02961f1144f2383d8822cd3308759d47a3fec2f807fb38a167d971037f5bf
@@ -3382,4 +3395,4 @@ entries:
     urls:
     - https://rkevin-arch.github.io/ngshare-helm-repo/ngshare-0.0.1-n107.h4765c7c.tgz
     version: 0.0.1-n107.h4765c7c
-generated: "2022-11-13T19:57:12.442808639Z"
+generated: "2022-11-13T20:15:17.991420565Z"
